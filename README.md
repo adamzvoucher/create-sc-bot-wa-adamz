@@ -1,1 +1,0 @@
-# create-sc-bot-wa-adamz
